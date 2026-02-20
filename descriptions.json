@@ -1,7 +1,17 @@
 {
   "matrix": {
     "emoji": "🐇",
-    "title": "Matrix CLI",
+    "title": "Matrix",
     "description": "Terminal Matrix digital rain"
+  },
+  "healthcentral": {
+    "emoji": "💚",
+    "title": "Healthcentral",
+    "description": "Personal health tracking dashboard with correlations"
+  },
+  "neuroplan": {
+    "emoji": "🧠",
+    "title": "Neuroplan",
+    "description": "Therapy and patient management platform"
   }
 }

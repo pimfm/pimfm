@@ -13,9 +13,9 @@
 ## Current Projects
 
 <!-- PROJECTS:START -->
-- 🐇 **[Matrix CLI](https://github.com/pimfm/matrix)** - Terminal Matrix digital rain
-- 🚀 **[healthcentral](https://github.com/pimfm/healthcentral)** - A personal health tracking dashboard that aggregates data from multiple sources, displays daily/weekly/monthly views of tracked attributes, and computes correlations between them to surface insights like "more steps correlates with better sleep."
-- 🚀 **[neuroplan](https://github.com/pimfm/neuroplan)** - This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+- 🐇 **[Matrix](https://github.com/pimfm/matrix)** - Terminal Matrix digital rain
+- 💚 **[Healthcentral](https://github.com/pimfm/healthcentral)** - Personal health tracking dashboard with correlations
+- 🧠 **[Neuroplan](https://github.com/pimfm/neuroplan)** - Therapy and patient management platform
 <!-- PROJECTS:END -->
 
 ## GitHub Activity
