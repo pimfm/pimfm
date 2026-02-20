@@ -1,3 +1,7 @@
 {
-  "matrix": "Terminal Matrix digital rain — cascading katakana with hidden easter eggs"
+  "matrix": {
+    "emoji": "🟢",
+    "title": "Matrix CLI",
+    "description": "Terminal Matrix digital rain with hidden easter eggs"
+  }
 }
