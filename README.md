@@ -14,6 +14,8 @@
 
 <!-- PROJECTS:START -->
 - 🐇 **[Matrix CLI](https://github.com/pimfm/matrix)** - Terminal Matrix digital rain
+- 🚀 **[healthcentral](https://github.com/pimfm/healthcentral)** - This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+- 🚀 **[neuroplan](https://github.com/pimfm/neuroplan)** - This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 <!-- PROJECTS:END -->
 
 ## GitHub Activity
