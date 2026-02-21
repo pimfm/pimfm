@@ -18,6 +18,7 @@
 - 🩺 **[Healthcentral](https://github.com/pimfm/healthcentral)** - Personal health tracking dashboard with correlations
 - 🧠 **[Neuroplan](https://github.com/pimfm/neuroplan)** - Therapy and patient management platform
 - 🚀 **[Token-tracker](https://github.com/pimfm/token-tracker)** - A project in the vibe collection
+- 🚀 **[Profit-cli](https://github.com/pimfm/profit-cli)** - A project in the vibe collection
 <!-- PROJECTS:END -->
 
 ## GitHub Activity
