@@ -21,6 +21,7 @@
 - 🚀 **[Profit-cli](https://github.com/pimfm/profit-cli)** - A project in the vibe collection
 - 🚀 **[Tree-cli](https://github.com/pimfm/tree-cli)** - A project in the vibe collection
 - 🚀 **[Specflow](https://github.com/pimfm/specflow)** - Spec-driven task automation CLI that bridges Things 3 with your...
+- 🚀 **[Gastown-tui](https://github.com/pimfm/gastown-tui)** - A terminal UI for Gas Town multi-agent orchestration
 <!-- PROJECTS:END -->
 
 ## GitHub Activity
