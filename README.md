@@ -24,6 +24,7 @@
 - 🚀 **[Gastown-tui](https://github.com/pimfm/gastown-tui)** - A terminal UI for Gas Town multi-agent orchestration (API client)
 - 🚀 **[Gastown-api](https://github.com/pimfm/gastown-api)** - A project in the vibe collection
 - 🚀 **[Gastown-web](https://github.com/pimfm/gastown-web)** - A project in the vibe collection
+- 🚀 **[Bga-ios](https://github.com/pimfm/bga-ios)** - A project in the vibe collection
 <!-- PROJECTS:END -->
 
 ## GitHub Activity
