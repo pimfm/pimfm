@@ -13,7 +13,7 @@
 ## Current Projects
 
 <!-- PROJECTS:START -->
-- 🚀 **[Work-cli](https://github.com/pimfm/work-cli)** - A project in the vibe collection
+- ⌨️ **[Work-cli](https://github.com/pimfm/work-cli)** - Easily switch business and project context and spawn agents in the right context
 - 🐇 **[Matrix](https://github.com/pimfm/matrix)** - Terminal Matrix digital rain
 - 🩺 **[Healthcentral](https://github.com/pimfm/healthcentral)** - Personal health tracking dashboard with correlations
 - 🧠 **[Neuroplan](https://github.com/pimfm/neuroplan)** - Therapy and patient management platform
