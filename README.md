@@ -1,6 +1,6 @@
 # Hi, I'm Pim ✌️
 
-✍️ **Handwritten by day, Agentic by night**
+✍️ **~~Handwritten by day~~, Agentic by day & night**
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -18,10 +18,6 @@
 - 🩺 **[Healthcentral](https://github.com/pimfm/healthcentral)** - Personal health tracking dashboard with correlations
 - 🧠 **[Neuroplan](https://github.com/pimfm/neuroplan)** - Therapy and patient management platform
 <!-- PROJECTS:END -->
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/pimfm)
 
 ## Connect
 
